@@ -18,7 +18,9 @@ public class HomePage extends TestBase {
 	@FindBy(xpath=" //*[@title=\"Timesheets\"][1]")
 	WebElement timesheet;
 	
-	
+	@FindBy(xpath=" //*[@title=\"Timesheets\"][1]")
+	WebElement timesheets;
+	//aplyng new changes
 	public HomePage() throws IOException{
 		PageFactory.initElements(driver, this);
 	}
