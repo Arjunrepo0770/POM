@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-17T10:27:24Z" name="Default suite" finished-at="2025-03-17T10:27:37Z" duration-ms="12686">
+    <groups>
+    </groups>
+    <test started-at="2025-03-17T10:27:24Z" name="Default test" finished-at="2025-03-17T10:27:37Z" duration-ms="12686">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.crm.qa.testcases.HomePageTest@4ce1d6d0]" started-at="2025-03-17T15:57:24Z" name="setUp" finished-at="2025-03-17T15:57:34Z" duration-ms="9158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifylogeduserdetails()[pri:0, instance:com.crm.qa.testcases.HomePageTest@4ce1d6d0]" started-at="2025-03-17T15:57:34Z" name="verifylogeduserdetails" finished-at="2025-03-17T15:57:37Z" duration-ms="3284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifylogeduserdetails -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@4ce1d6d0]" started-at="2025-03-17T15:57:37Z" name="tearDown" finished-at="2025-03-17T15:57:37Z" duration-ms="211" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
